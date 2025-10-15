@@ -7,9 +7,9 @@ The goal is to identify trends, profitability patterns, and potential areas of i
 
 ## 📊 Dashboard Preview
 
-![Sales Overview](images/sales_overview.png)
-![Profit Analysis](images/profit_analysis.png)
-![Discount Impact](images/discount_impact.png)
+![Sales Overview](images/homePage.png)
+![Profit Analysis](images/productAnalysis.png)
+![Discount Impact](images/salesAnalysis.png)
 
 
 🛠️ Tools & Technologies
